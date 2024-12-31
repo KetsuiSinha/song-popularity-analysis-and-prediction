@@ -1,6 +1,4 @@
 # Creating the markdown content for GitHub documentation
-
-readme_content = """
 # Melody Metrics - Song Popularity Prediction
 
 ## Project Description
@@ -72,10 +70,3 @@ The correlations between features in the test set align closely with those in th
 1. Perform exploratory data analysis (EDA) to uncover additional patterns.
 2. Build machine learning models to predict song popularity based on the features.
 3. Optimize the models to achieve high predictive accuracy.
-
-## Setup Instructions
-
-To run this project, ensure you have the following dependencies installed:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
