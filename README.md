@@ -1,4 +1,4 @@
-# Creating the markdown content for GitHub documentation
+
 # Melody Metrics - Song Popularity Prediction
 
 ## Project Description
